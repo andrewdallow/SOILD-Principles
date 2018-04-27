@@ -16,7 +16,10 @@
  * @since      File available since Release [version]
  */
 
-class HtmlPrinter
+class HtmlPrinter implements Printer
 {
-
+    public function printPage(Book $book): void
+    {
+        echo '<div style="single-page">' . $book->getCurrentPage() . '</div>';
+    }
 }
