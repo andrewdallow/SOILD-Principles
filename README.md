@@ -82,10 +82,6 @@ To create an instance of a Readable book we implement the Simple abstract factor
 
 See example code here: https://github.com/andrewdallow/SOLID-Principles/tree/master/DependencyInversionPrinciple/Example
 
-### Conclusion
-
-
-
 ## References
 Csaba, P. 2013. The SOLID Principles.https://code.tutsplus.com/series/the-solid-principles--cms-634 
 
