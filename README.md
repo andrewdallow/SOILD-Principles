@@ -82,6 +82,17 @@ To create an instance of a Readable book we implement the Simple abstract factor
 
 See example code here: https://github.com/andrewdallow/SOLID-Principles/tree/master/DependencyInversionPrinciple/Example
 
+## Conclusion
+The SOLID principles are a guideline for the development of object-orientated
+ software. The five principles tell us how to structure a class 
+ (Single Responsibility Principle), how to extend their functionality 
+ (Open/Closed Principle and the Liskov Substitution Principle), and how to 
+ manage dependences between classes (Interface Segregation and Dependency 
+ Inverse Principles). These principles allow us to develop code that is 
+ resilient to change, lowering the risk of it breaking. It also allows us to 
+ reuse code without having to rewrite it as well as increasing the efficiency 
+ of redeploying the software. 
+
 ## References
 Csaba, P. 2013. The SOLID Principles.https://code.tutsplus.com/series/the-solid-principles--cms-634 
 
