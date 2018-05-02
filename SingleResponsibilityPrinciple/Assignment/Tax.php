@@ -1,5 +1,8 @@
 <?php
 
+/**
+ * Class representing tax calculations
+ */
 class Tax
 {
     /**

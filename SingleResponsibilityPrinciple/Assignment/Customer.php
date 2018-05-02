@@ -1,5 +1,8 @@
 <?php
 
+/**
+ * Class Presenting Customer Data.
+ */
 class Customer
 {
     protected $firstName;
@@ -9,15 +12,6 @@ class Customer
     protected $email;
     protected $address;
 
-    /**
-     * @param String $username
-     * @param String $password
-     *
-     * @return bool
-     */
-    public function login($username, $password)
-    {
-        //do something
-        return true;
-    }
+    // ...methods relating to customers.
+
 }
